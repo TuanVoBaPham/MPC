@@ -1,6 +1,5 @@
 **Model Predictive Control (MPC) Simulation**
 -----
-<br>
 This repository contains a Model Predictive Control (MPC) implementation using MATLAB and Simulink. The project is based on a state-space model of the controlled system and demonstrates how MPC is configured, simulated, and executed.
 
 **MPC_6wd6ws.slx**
